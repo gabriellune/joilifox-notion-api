@@ -5,7 +5,10 @@
     "outDir": "./dist",
     "rootDir": "./src",
     "esModuleInterop": true,
-    "strict": true
+    "strict": true,
+		"composite": true,
+		"emitDeclarationOnly": true,
+		"allowImportingTsExtensions": true,
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules"]
