@@ -1,0 +1,7 @@
+{
+	"info": {
+    "title": "Jolifox Notion Api",
+    "version": "1.0.0",
+    "description": "API for handling records in Notion. This API allows you to create, get, update, and delete records in a Notion database"
+	}
+}
